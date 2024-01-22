@@ -1,0 +1,4 @@
+to use that JWT thingy
+send POST to auth route with user and pwd in body
+copy the access token
+send GET to employees since there we have used that JWT auth, send the access token in auth with quotes and you will get the required response
